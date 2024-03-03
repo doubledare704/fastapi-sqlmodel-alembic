@@ -15,3 +15,7 @@ class Hero(HeroBase, table=True):
 
 class HeroCreate(HeroBase):
     pass
+
+
+class HeroUpdate(HeroCreate):
+    pass
