@@ -1,6 +1,6 @@
-alembic==1.14.0
+alembic==1.15.2
 asyncpg==0.30.0
-fastapi==0.115.6
-sqlmodel==0.0.22
-uvicorn==0.34.0
-pydantic-settings==2.7.0
+fastapi==0.115.12
+sqlmodel==0.0.24
+uvicorn==0.34.2
+pydantic-settings==2.9.1
